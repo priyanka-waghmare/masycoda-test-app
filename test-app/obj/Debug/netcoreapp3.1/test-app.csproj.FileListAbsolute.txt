@@ -1,0 +1,12 @@
+D:\Priyanka\Practice\test-app\test-app\bin\Debug\netcoreapp3.1\test-app.exe
+D:\Priyanka\Practice\test-app\test-app\bin\Debug\netcoreapp3.1\test-app.deps.json
+D:\Priyanka\Practice\test-app\test-app\bin\Debug\netcoreapp3.1\test-app.runtimeconfig.json
+D:\Priyanka\Practice\test-app\test-app\bin\Debug\netcoreapp3.1\test-app.runtimeconfig.dev.json
+D:\Priyanka\Practice\test-app\test-app\bin\Debug\netcoreapp3.1\test-app.dll
+D:\Priyanka\Practice\test-app\test-app\bin\Debug\netcoreapp3.1\test-app.pdb
+D:\Priyanka\Practice\test-app\test-app\obj\Debug\netcoreapp3.1\test-app.AssemblyInfoInputs.cache
+D:\Priyanka\Practice\test-app\test-app\obj\Debug\netcoreapp3.1\test-app.AssemblyInfo.cs
+D:\Priyanka\Practice\test-app\test-app\obj\Debug\netcoreapp3.1\test-app.csproj.CoreCompileInputs.cache
+D:\Priyanka\Practice\test-app\test-app\obj\Debug\netcoreapp3.1\test-app.dll
+D:\Priyanka\Practice\test-app\test-app\obj\Debug\netcoreapp3.1\test-app.pdb
+D:\Priyanka\Practice\test-app\test-app\obj\Debug\netcoreapp3.1\test-app.genruntimeconfig.cache
